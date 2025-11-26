@@ -1,0 +1,8 @@
+{
+  "name": "FambaGo- em desenvolvimento",
+  "description": "Plataforma de Mobilidade Urbana para Mototáxis em Inhambane e Maxixe",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
